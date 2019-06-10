@@ -32,11 +32,11 @@ public class GreetingController {
 
     @RequestMapping("/delay")
     public String delay() throws InterruptedException {
-        final int delay = new Random().nextInt(3000 - 500 + 1) + 500;
-        System.out.printf("delay: %d ms" + System.lineSeparator(), delay);
-        Thread.sleep(delay);
+//        final int delay = new Random().nextInt(3000 - 500 + 1) + 500;
+//        System.out.printf("delay: %d ms" + System.lineSeparator(), delay);
+//        Thread.sleep(delay);
 
-        myClasses.add(new MyClass(String.valueOf(delay)));
+//        myClasses.add(new MyClass(String.valueOf(delay)));
 
         return restTemplate.getForEntity(URL, String.class).getBody();
     }
