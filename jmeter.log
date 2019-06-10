@@ -1,0 +1,47 @@
+2019-06-10 14:14:29,725 INFO o.a.j.u.JMeterUtils: Setting Locale to en_RU
+2019-06-10 14:14:29,753 INFO o.a.j.JMeter: Loading user properties from: /Users/y.glushenkov/Downloads/apache-jmeter-5.1.1/bin/user.properties
+2019-06-10 14:14:29,754 INFO o.a.j.JMeter: Loading system properties from: /Users/y.glushenkov/Downloads/apache-jmeter-5.1.1/bin/system.properties
+2019-06-10 14:14:29,760 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2019-06-10 14:14:29,760 INFO o.a.j.JMeter: Version 5.1.1 r1855137
+2019-06-10 14:14:29,760 INFO o.a.j.JMeter: java.version=11.0.2
+2019-06-10 14:14:29,760 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-06-10 14:14:29,760 INFO o.a.j.JMeter: os.name=Mac OS X
+2019-06-10 14:14:29,760 INFO o.a.j.JMeter: os.arch=x86_64
+2019-06-10 14:14:29,760 INFO o.a.j.JMeter: os.version=10.14.4
+2019-06-10 14:14:29,760 INFO o.a.j.JMeter: file.encoding=UTF-8
+2019-06-10 14:14:29,761 INFO o.a.j.JMeter: java.awt.headless=null
+2019-06-10 14:14:29,761 INFO o.a.j.JMeter: Max memory     =4294967296
+2019-06-10 14:14:29,761 INFO o.a.j.JMeter: Available Processors =8
+2019-06-10 14:14:29,767 INFO o.a.j.JMeter: Default Locale=English (Russia)
+2019-06-10 14:14:29,767 INFO o.a.j.JMeter: JMeter  Locale=English (Russia)
+2019-06-10 14:14:29,767 INFO o.a.j.JMeter: JMeterHome=/Users/y.glushenkov/Downloads/apache-jmeter-5.1.1
+2019-06-10 14:14:29,767 INFO o.a.j.JMeter: user.dir  =/private/tmp/springperformancetest
+2019-06-10 14:14:29,767 INFO o.a.j.JMeter: PWD       =/private/tmp/springperformancetest
+2019-06-10 14:14:29,768 INFO o.a.j.JMeter: IP: 100.100.18.90 Name: msk-wifi-b22p2-glushenkovyuri-y.glushenkov.mail.msk FullName: msk-wifi-b22p2-glushenkovyuri-y.glushenkov.mail.msk
+2019-06-10 14:14:31,000 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2019-06-10 14:14:31,007 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2019-06-10 14:14:31,008 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2019-06-10 14:14:31,082 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-06-10 14:14:32,317 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-06-10 14:14:32,318 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-06-10 14:14:32,318 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-06-10 14:14:32,318 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-06-10 14:14:32,318 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-06-10 14:14:32,318 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-06-10 14:14:32,704 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-06-10 14:14:32,704 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/y.glushenkov/Downloads/apache-jmeter-5.1.1/bin/proxyserver.jks
+2019-06-10 14:14:32,853 INFO o.a.j.s.FileServer: Default base='/private/tmp/springperformancetest'
+2019-06-10 14:14:33,159 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-06-10 14:14:33,159 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-06-10 14:14:33,159 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-06-10 14:14:33,160 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2019-06-10 14:14:33,177 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2019-06-10 14:14:48,918 INFO o.a.j.g.a.Load: Loading file: /private/tmp/springperformancetest/src/main/resources/jmeter/Test Plan.jmx
+2019-06-10 14:14:48,918 INFO o.a.j.s.FileServer: Set new base='/private/tmp/springperformancetest/src/main/resources/jmeter'
+2019-06-10 14:14:49,042 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2019-06-10 14:14:49,057 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2019-06-10 14:14:49,059 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2019-06-10 14:14:49,061 INFO o.a.j.s.SaveService: Loading file: /private/tmp/springperformancetest/src/main/resources/jmeter/Test Plan.jmx
+2019-06-10 14:14:49,142 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2019-06-10 14:14:49,196 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2019-06-10 14:14:49,244 INFO o.a.j.s.FileServer: Set new base='/private/tmp/springperformancetest/src/main/resources/jmeter'
